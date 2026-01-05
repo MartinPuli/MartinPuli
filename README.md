@@ -98,7 +98,7 @@ Hace casi **dos años que vivo en la Ciudad de Buenos Aires**, una ciudad que am
 ## 🌐 Let’s connect
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/mart%C3%ADn-ezequiel-pulitano-473b362a6/  
-- 🌳 **Linktree:** https://linktr.ee/MartinPulitano  
+- 🌳 **Linktree:** https://linktr.ee/Martinpuli 
 
 ---
 
