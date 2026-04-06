@@ -5,7 +5,7 @@
 <h1 align="center">Martín Ezequiel Pulitano</h1>
 
 <p align="center">
-  <b>Building AI systems and agentic products</b>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+systems+and+agentic+products;Tech+Lead+in+AI+%26+Automation;Hackathon+builder+from+Buenos+Aires" />
 </p>
 
 <p align="center">
