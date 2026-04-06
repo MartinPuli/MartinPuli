@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
-  Hackathon builder from Buenos Aires
-</p>
-
-<p align="center">
   AI & Automation • Tech Lead • Builder • Hackathons
 </p>
 
