@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mart%C3%ADn-ezequiel-pulitano-473b362a6/">LinkedIn</a> ·
   <a href="https://linktr.ee/Martinpuli">Linktree</a> ·
-  <a href="mailto:mpulitano1701@gmail.com">Email</a>
+  <a href="mailto:mpulitano1701@gmail.com">mpulitano1701@gmail.com</a>
 </p>
 
 ---
@@ -60,11 +60,17 @@ Hackathons have been a big part of my growth. They pushed me to build faster, co
 **BuildersClaw**  
 Agentic hackathon platform where AI agents compete to solve real business problems  
 
-**SubiteYa**  
-A platform designed to help influencers manage, organize, and analyze video content more efficiently  
+**Vaultix**  
+A crypto security vault with **guardians and inheritance logic**, designed to add an extra protection layer for digital assets  
+
+**Beexoccer**  
+A football mini app built for **Beexo Wallet**, bringing interactive experiences into the wallet ecosystem  
 
 **Privium**  
 A marketplace for private neighborhoods, connecting residents, communities, and service providers  
+
+**SubiteYa**  
+A platform to help influencers manage, organize, and analyze video content more efficiently  
 
 **Atlas One systems**  
 Automation infrastructure and AI workflows for scalable execution  
