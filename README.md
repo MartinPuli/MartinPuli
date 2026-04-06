@@ -1,107 +1,105 @@
 <!-- ===================== -->
-<!--  GitHub Profile README -->
+<!--   GitHub Profile README -->
 <!-- ===================== -->
 
-<h1 align="center">👋 Hi, I'm Martín Pulitano</h1>
+<h1 align="center">🚀 Martín Pulitano</h1>
+
 <h3 align="center">
-  Entrepreneurial-minded developer • Computer Engineering student @ UCEMA • Buenos Aires 🇦🇷
+Building AI systems, automations and agentic products
 </h3>
 
 <p align="center">
-  Building products, learning constantly, and enjoying the process.
+  AI & Automation • Tech Lead • Hackathon builder • Buenos Aires 🇦🇷
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mart%C3%ADn-ezequiel-pulitano-473b362a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://linktr.ee/MartinPulitano" target="_blank">
+  <a href="https://linktr.ee/Martinpuli" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=flat&logo=linktree&logoColor=black" />
   </a>
 </p>
 
 ---
 
-## 🚀 About me
+## ⚡ About
 
-🇬🇧  
-I'm a **Computer Engineering student at UCEMA** and a **software developer** with a strong interest in  
-**entrepreneurship, product building, and technology as a tool for real-world impact**.
+I'm a **Computer Engineering student at UCEMA** focused on **AI, automation, startups, and real-world product building**.
 
-I've been living in **Buenos Aires for almost two years**, and I genuinely love this city.  
-That’s why I’m motivated not only to build tech products, but also to **get involved and help improve the environment where I live**, through innovation, community and ideas.
+I like turning ideas into working systems fast — connecting **LLMs, APIs, workflows, data and product thinking** to solve real problems.
 
-🇪🇸  
-Soy **estudiante de Ingeniería en Computación en UCEMA** y desarrollador de software, con un fuerte interés en el  
-**emprendimiento, la creación de productos y la tecnología como herramienta de impacto real**.
-
-Hace casi **dos años que vivo en la Ciudad de Buenos Aires**, una ciudad que amo y que me inspira a involucrarme, aprender y aportar desde lo que sé hacer: construir.
+Most of what I build lives at the intersection of:
+- agentic systems
+- automation infrastructure
+- startup execution
+- fast MVPs with real use cases
 
 ---
 
-## 🧠 What I'm building
+## 💼 What I’m doing
 
-### 🏗️ Projects
+### **Tech Lead @ Atlas**
+Building **AI & Automation systems**, scalable workflows, and digital infrastructure for real-world execution.
 
-- **Privium**  
-  A marketplace for private neighborhoods in Argentina, connecting residents, service providers and communities.
-
-- **CredFund**  
-  A reputation-based crowdfunding launchpad focused on merit, transparency and on-chain reputation.
-
-- 🚧 **Currently building new projects**  
-  I enjoy experimenting, validating ideas, pitching, iterating and turning concepts into real products.
+### **AI & Automation @ SoyGalo**
+Shipping automation-driven solutions in a startup environment, experimenting fast and integrating AI into business workflows.
 
 ---
 
-## 💼 Professional experience
+## 🏆 Highlights
 
-- **Junior Web Programmer** at **Consultora Script S.A.**  
-  Working on enterprise-grade projects for banking and financial clients.
+- **Top 3 / 141 teams** with **BuildersClaw**
+- **1st place** at **VendimiaTech**
+- Multiple strong hackathon performances building under pressure, pitching, iterating, and shipping fast
 
-  **Main technologies:**  
-  Java, Spring Boot, Angular, SQL, CI/CD pipelines, Git, Jenkins
+Hackathons have been one of the biggest drivers of my growth: they pushed me to build faster, communicate better, and defend ideas in real-world conditions.
+
+---
+
+## 🧠 Featured projects
+
+### **BuildersClaw**
+An agentic hackathon platform where AI agents compete to solve real-world business challenges.
+
+### **Atlas systems**
+AI-powered workflows, automation infrastructure, and scalable systems for digital operations and execution.
+
+### **Experiments & MVPs**
+I’m constantly testing new product ideas around AI, agents, workflow orchestration, and startup tools.
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat"/>
-</p>
+**Languages**  
+Python • TypeScript • Java • JavaScript • SQL
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-</p>
+**AI / Automation**  
+LLMs • LangChain • OpenRouter • Claude • n8n • Make • Zapier
+
+**Infra / Product**  
+Supabase • Vercel • Docker • Git • Linux
 
 ---
 
-## 🌱 Currently learning
+## 🌱 Current focus
 
-- Product thinking & MVP validation  
-- Blockchain & on-chain reputation systems  
-- Software architecture & scalability  
-- Building communities around products and ideas  
+- AI applied to real-world problems  
+- Agentic workflows and autonomous systems  
+- Startup execution and product thinking  
+- Automation as leverage  
+- Community, education and tech impact  
 
 ---
 
 ## 🌐 Let’s connect
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/mart%C3%ADn-ezequiel-pulitano-473b362a6/  
-- 🌳 **Linktree:** https://linktr.ee/Martinpuli 
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mart%C3%ADn-ezequiel-pulitano-473b362a6/
+- 🌳 **Linktree:** https://linktr.ee/Martinpuli
 
 ---
 
 <p align="center">
-  <i>Always building. Always learning.</i>
+  <i>Building fast. Learning faster.</i>
 </p>
