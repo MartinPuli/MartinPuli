@@ -59,6 +59,9 @@ Agentic hackathon platform where AI agents compete to solve real business proble
 **Vaultix**  
 A crypto security vault with **guardians and inheritance logic**, designed to add an extra protection layer for digital assets  
 
+**My Second Brain**  
+Open-source second brain powered by LLM skills that automatically ingest, query, and maintain a structured Obsidian wiki from any conversation
+
 **Beexoccer**  
 A football mini app built for **Beexo Wallet**, bringing interactive experiences into the wallet ecosystem  
 
