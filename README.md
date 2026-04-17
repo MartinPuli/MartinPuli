@@ -41,6 +41,7 @@ Building AI systems, automation workflows and scalable infrastructure
 ## 🏆 Highlights
 
 - **Top 1** — VendimiaTech  
+- **Top 1** — Genlayer Bradbury Builders Hackathon
 - **Top 2** — Quantum Jam ITBA *(Quantum Computing)*  
 - **Top 2** — Quantum Jam UBA *(Quantum Computing)*  
 - **Top 3 / 141 teams** — Aleph Hackathon 2026  
@@ -52,6 +53,12 @@ Hackathons have been a big part of my growth. They pushed me to build faster, co
 ---
 
 ## 🧩 Projects
+
+**Pitchr**  
+Pitchr lets you pitch ideas to AI judges based on real experts—and get instant feedback
+
+**Nomos**  
+Nomos is a marketplace of optimized AI agent teams that turn real work into ready-to-use results in minutes
 
 **BuildersClaw**  
 Agentic hackathon platform where AI agents compete to solve real business problems  
