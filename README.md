@@ -72,6 +72,9 @@ Open-source second brain powered by LLM skills that automatically ingest, query,
 **Beexoccer**  
 A football mini app built for **Beexo Wallet**, bringing interactive experiences into the wallet ecosystem  
 
+**Subte Duel**  
+Two-player Tron-style arcade game themed around the BA subway, built under a 50 KB hard limit for Platanus Hack 26
+
 **Privium**  
 A marketplace for private neighborhoods, connecting residents, communities, and service providers  
 
