@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mart%C3%ADn-ezequiel-pulitano-473b362a6/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/martin-ezequiel-pulitano/">LinkedIn</a> ·
   <a href="https://linktr.ee/Martinpuli">Linktree</a> ·
   <a href="mailto:mpulitano1701@gmail.com">mpulitano1701@gmail.com</a>
 </p>
