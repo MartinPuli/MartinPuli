@@ -42,8 +42,9 @@ Building AI systems, automation workflows and scalable infrastructure
 
 - **Top 1** — VendimiaTech  
 - **Top 1** — Genlayer Bradbury Builders Hackathon
-- **Top 2** — Quantum Jam ITBA *(Quantum Computing)*  
-- **Top 2** — Quantum Jam UBA *(Quantum Computing)*  
+- **Top 2** — Quantum Jam ITBA *(Quantum Computing)*
+- **Top 2** — Quantum Jam UBA *(Quantum Computing)*
+- **Top 2** — Monad Blitz BSAS Hackathon
 - **Top 3 / 141 teams** — Aleph Hackathon 2026  
 - **Top 3** — Beexo Mini App Hackathon  
 - **Finalist** — HackITBA 2026  
