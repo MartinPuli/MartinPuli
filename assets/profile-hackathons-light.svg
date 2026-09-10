@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="184" viewBox="0 0 480 184" role="img" aria-labelledby="title desc">
+<title id="title">9 podium finishes in 12 hackathons</title>
+<desc id="desc">Nine podium finishes across twelve hackathons.</desc>
+<rect x="1" y="1" width="478" height="182" rx="14" fill="#F5F8FC" stroke="#DCE4EF"/>
+<rect x="28" y="27" width="24" height="3" rx="1.5" fill="#167764"/>
+<text x="63" y="34" fill="#52657E" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="1.6">HACKATHON RECORD</text>
+<text x="27" y="101" fill="#15233A" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">9</text>
+<text x="79" y="99" fill="#167764" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="500">/ 12</text>
+<text x="29" y="125" fill="#167764" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="1.4">PODIUM FINISHES</text>
+<line x1="28" y1="141" x2="451" y2="141" stroke="#DCE4EF"/>
+<text x="29" y="164" fill="#52657E" font-family="Arial, Helvetica, sans-serif" font-size="16">Podium finishes across 12 hackathons</text>
+</svg>

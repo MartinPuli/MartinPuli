@@ -1,14 +1,29 @@
-# Martín Ezequiel Pulitano
+<h1 align="center">Martín Ezequiel Pulitano</h1>
 
-**Executive Assistant to Kamron Palizban**
+<h3 align="center">Executive Assistant to Kamron Palizban</h3>
 
-Building **Warden** & **Kool** · AI systems & product engineering
+<p align="center">
+  AI systems &amp; product engineering<br>
+  Building <a href="https://github.com/Wardenlabs/warden"><strong>Warden</strong></a> &amp; <a href="https://www.joinkool.co/"><strong>Kool</strong></a>
+</p>
 
-| Education | Hackathons |
-| --- | --- |
-| Computer Engineering student at **UCEMA**<br>GPA **9.64/10** | **9 podium finishes**<br>in **12 hackathons** |
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/profile-education-dark.svg">
+    <img src="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/profile-education-light.svg" alt="Computer Engineering student at UCEMA. GPA: 9.64 out of 10." width="360">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/profile-hackathons-dark.svg">
+    <img src="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/profile-hackathons-light.svg" alt="9 podium finishes in 12 hackathons." width="360">
+  </picture>
+</p>
 
-Buenos Aires, Argentina · [LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-ezequiel-pulitano-473b362a6/) · [X](https://x.com/MartinPulitano) · [Email](mailto:mpulitano1701@gmail.com)
+<p align="center">
+  Buenos Aires, Argentina ·
+  <a href="https://www.linkedin.com/in/mart%C3%ADn-ezequiel-pulitano-473b362a6/">LinkedIn</a> ·
+  <a href="https://x.com/MartinPulitano">X</a> ·
+  <a href="mailto:mpulitano1701@gmail.com">Email</a>
+</p>
 
 ---
 
@@ -16,13 +31,19 @@ I work as **Executive Assistant to Kamron Palizban**, who co-founded Invisible T
 
 ## Current work
 
-**[Warden](https://github.com/Wardenlabs/warden)** gives teams control over what employees send to AI assistants. Admins write rules in plain language; Warden checks prompts and attached documents with local models before forwarding allowed content to the chosen assistant. It can block a request or hold it for human review, and records which rule led to each decision. Policy analysis stays on the gateway. It includes offline document parsing and OCR, plus an admin console for reviewing decisions and adjusting rules.
+### [Warden](https://github.com/Wardenlabs/warden)
+
+Warden gives teams control over what employees send to AI assistants. Admins write rules in plain language; Warden checks prompts and attached documents with local models before forwarding allowed content to the chosen assistant. It can block a request or hold it for human review, and records which rule led to each decision. Policy analysis stays on the gateway. It includes offline document parsing and OCR, plus an admin console for reviewing decisions and adjusting rules.
 
 **1st place among 151 projects at Aleph, August 2026.** I've kept developing it after the hackathon.
 
-At **[Kool](https://www.joinkool.co/)**, I'm building the platform that helps e-commerce brands work with creators: campaign briefs, applications, affiliate links, commissions, and gifting.
+### [Kool](https://www.joinkool.co/)
 
-I also built **Execution OS**, the workspace we use daily for meetings, projects, accounting, travel, and CRM. It brings together **30 connected apps**, AI pipelines, and an MCP server.
+I'm building the platform that helps e-commerce brands work with creators: campaign briefs, applications, affiliate links, commissions, and gifting.
+
+### Execution OS
+
+I built the workspace we use daily for meetings, projects, accounting, travel, and CRM. It brings together **30 connected apps**, AI pipelines, and an MCP server.
 
 ## GeoBlender
 
