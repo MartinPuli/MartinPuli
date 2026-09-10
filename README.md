@@ -13,7 +13,7 @@
 
 ---
 
-I'm a software builder from Buenos Aires, currently building **Warden** and **Kool**. I've worked on banking systems, built products with paying customers, and spent plenty of weekends competing in hackathons.
+I'm a software builder from Buenos Aires, currently building **Warden** and **Kool**. I've worked on banking systems and built products with paying customers. Hackathons account for a lot of my weekends.
 
 I'm also the **Executive Assistant and right hand to Kamron Palizban**, co-founder of Invisible Technologies and CEO of Ascendancy. I work alongside him on day-to-day operations and build the software we use to run them.
 
@@ -25,16 +25,27 @@ At **[Kool](https://www.joinkool.co/)**, I'm building the platform that helps e-
 
 I also built **Execution OS**, the workspace we use daily for meetings, projects, accounting, travel, and CRM. It brings together **30 connected apps**, AI pipelines, and an MCP server.
 
-## A little Buenos Aires, built in Blender
+## GeoBlender, at street level
 
-**[GeoBlender](https://github.com/MartinPuli/geoblender)** turns geographic data into editable 3D scenes. I built it during **OpenAI Build Week**, using Codex and Blender MCP. Here's the Obelisco and a piece of Avenida 9 de Julio.
+Give **[GeoBlender](https://github.com/MartinPuli/geoblender)** a place name or a Google Maps link and it builds an editable Blender scene. I built it during **OpenAI Build Week** with Codex and Blender MCP.
 
 <p align="center">
   <a href="https://github.com/MartinPuli/geoblender">
-    <img src="https://raw.githubusercontent.com/MartinPuli/geoblender/main/docs/example-obelisco.png" alt="GeoBlender scene of the Buenos Aires Obelisco and Avenida 9 de Julio, with pastel buildings and modeled streets." width="600">
+    <img src="https://raw.githubusercontent.com/MartinPuli/geoblender/main/docs/example-street.png" alt="Street-level GeoBlender render with windowed buildings, low-poly trees, and textured pavement." width="720">
   </a><br>
   <a href="https://github.com/MartinPuli/geoblender">Explore the project</a> · <a href="https://youtu.be/SiVsczk-1vw">Watch the 2-minute demo</a>
 </p>
+
+<details>
+<summary><strong>Another view: Puerto Madero</strong></summary>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/MartinPuli/geoblender/main/docs/example-puerto-madero.png">
+    <img src="https://raw.githubusercontent.com/MartinPuli/geoblender/main/docs/example-puerto-madero.png" alt="Aerial GeoBlender block model of Puerto Madero, showing its docks, streets, and towers." width="600">
+  </a>
+</p>
+
+</details>
 
 ## More things I've built
 
@@ -42,18 +53,20 @@ I also built **Execution OS**, the workspace we use daily for meetings, projects
 | --- | --- |
 | **[BuildersClaw](https://github.com/buildersclaw/buildersclaw)** | A platform where AI agents compete to solve business problems. **3rd of 141 teams at Aleph, March 2026.** |
 | **[createAnApp](https://github.com/MartinPuli/createAnApp)** | Agent skills for building Apple apps, from the first idea through App Store launch. |
-| **[Pitchr](https://www.pitchr.studio/)** | Pitch an idea to AI judges and get feedback. **500+ pitches evaluated.** |
+| **[Pitchr](https://www.pitchr.studio/)** | Practice a pitch with AI judges modeled on real experts and get immediate feedback. **500+ pitches evaluated.** |
 | **Tandem** | Accounting automation for residential property managers. **Five paying clients, 50+ users.** |
 | **Subte Duel** | Two-player Tron on the Buenos Aires subway, under **50 KB** for Platanus Hack 26. Rush hour needed a competitive mode. |
 
 <details>
 <summary><strong>More experiments</strong></summary>
 
-- **[Nomos](https://github.com/MartinPuli/nomos)**: a prototype that splits work into subtasks and routes each one to a Claude model based on complexity.
+- **[Nomos](https://github.com/MartinPuli/nomos)**: a marketplace prototype for specialist AI teams. It splits a goal into subtasks and routes each one to a Claude model based on complexity.
 - **My Second Brain**: LLM skills that ingest sources, answer questions, and maintain a personal Obsidian wiki.
 - **Vaultix**: a crypto vault with guardians and inheritance rules.
 - **Beexoccer**: a football mini app for Beexo Wallet.
-- **Privium**: a marketplace for private neighborhoods.
+- **Privium**: a marketplace connecting residents, communities, and service providers in private neighborhoods.
+- **SubiteYa**: a workspace for creators to organize their video content and analyze its performance.
+- **Atlas One systems**: automation infrastructure and AI workflows I built at Atlas One.
 
 </details>
 
@@ -78,7 +91,7 @@ I also built **Execution OS**, the workspace we use daily for meetings, projects
 
 </details>
 
-## From COBOL to AI agents
+## A bit of background
 
 At **Galo AI**, I built OCR and LLM pipelines for customer orders and distributor ERP integrations. Before that, I worked on Java/Spring Boot software for **BBVA and Volkswagen Financial Services** at Script S.A., and on COBOL banking systems at Sistemas Activos.
 
