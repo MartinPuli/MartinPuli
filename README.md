@@ -1,52 +1,46 @@
 # Martín Ezequiel Pulitano
 
-I build AI systems and full-stack products. My current work includes **[Warden](https://github.com/Wardenlabs/warden)**, a local policy gateway for AI tools, and **[Kool](https://www.joinkool.co/)**, a platform for e-commerce brands to work with creators.
+**Building Warden & Kool · AI systems, products, and automation**
 
 [Website](https://martinpulitano.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-ezequiel-pulitano-473b362a6/) · [X](https://x.com/MartinPulitano) · [Email](mailto:mpulitano1701@gmail.com)
 
-I'm the **Executive Assistant and right hand to Kamron Palizban**. Kamron co-founded Invisible Technologies and is CEO of Ascendancy. I built **Execution OS** for our daily work: 30 connected apps for meetings, projects, accounting, travel, and CRM, with AI pipelines and an MCP server.
+I'm a software builder from Buenos Aires. I've worked on banking systems, built products with paying customers, and spent plenty of weekends competing in hackathons.
 
-At Kool, I'm building campaign briefs, creator applications, affiliate links, commissions, and gifting.
+I'm the **Executive Assistant and right hand to Kamron Palizban**. Kamron co-founded Invisible Technologies and is CEO of Ascendancy. Working with him puts me close to the daily decisions behind a business, and I build software for that work.
 
-## Selected work
+## Right now
 
-**[Warden](https://github.com/Wardenlabs/warden)** checks AI requests against policies using local models. It took **1st place among 151 projects at Aleph, August 2026**, and I've kept building it since.
+**[Warden](https://github.com/Wardenlabs/warden)** is a local policy gateway for AI tools. It checks requests against rules written in plain language, with on-device inference, document handling, and an audit trail. **1st place among 151 projects at Aleph, August 2026.** I've kept developing it after the hackathon.
 
-The model checks each request against applicable rules; application code combines the resulting labels into allow, escalate, or block decisions and builds explanations from the policy text. I publish evaluations with failure cases, including false positives, so the limits are visible alongside the results.
+At **[Kool](https://www.joinkool.co/)**, I'm building the platform that helps e-commerce brands work with creators: campaign briefs, applications, affiliate links, commissions, and gifting.
 
-[Decision logic](https://github.com/Wardenlabs/warden/blob/main/src/guard/aggregate.ts) · [Document handling](https://github.com/Wardenlabs/warden/blob/main/docs/DOCUMENTS.md) · [Evaluation notes](https://github.com/Wardenlabs/warden/blob/main/docs/measurements/2026-09-08-document-paths.md)
+I also built **Execution OS**, the workspace we use daily for meetings, projects, accounting, travel, and CRM. It brings together **30 connected apps**, AI pipelines, and an MCP server.
 
-**[GeoBlender](https://github.com/MartinPuli/geoblender)** builds editable Blender scenes from geographic data. Built during OpenAI Build Week with Codex and Blender MCP. Its refinement loop keeps a held-out camera view and scores iterations by the weaker of two views, retaining the best checkpoint. This helps catch changes that look better from only one angle.
+## More things I've built
 
-[Refinement loop](https://github.com/MartinPuli/geoblender/blob/main/scripts/loop_engineering.py) · [Tests](https://github.com/MartinPuli/geoblender/blob/main/tests/test_loop_engineering.py)
-
-- **[BuildersClaw](https://github.com/buildersclaw/buildersclaw)**: competitions where AI agents build solutions to business problems. **3rd of 141 teams at Aleph, March 2026.**
-- **[createAnApp](https://github.com/MartinPuli/createAnApp)**: agent skills for building Apple apps, from idea validation through App Store launch.
-
-## Products with users
-
-- **Tandem**: accounting automation for residential property managers. **Five paying clients, 50+ users.**
-- **[Pitchr](https://www.pitchr.studio/)**: AI judges that evaluate startup pitches. **500+ pitches evaluated.**
-
-## Tools I use
-
-TypeScript and Python; Next.js, React, PostgreSQL, Supabase, and Docker. Claude Code, MCP, local models, and model APIs are part of my daily development workflow. My earlier work includes Java/Spring Boot and COBOL banking systems.
+| Project | What it does |
+| --- | --- |
+| **[GeoBlender](https://github.com/MartinPuli/geoblender)** | Turns geographic data into editable Blender scenes. Built during **OpenAI Build Week** with Codex and Blender MCP. |
+| **[BuildersClaw](https://github.com/buildersclaw/buildersclaw)** | A platform where AI agents compete to solve business problems. **3rd of 141 teams at Aleph, March 2026.** |
+| **[createAnApp](https://github.com/MartinPuli/createAnApp)** | Agent skills for building Apple apps, from the first idea through App Store launch. |
+| **[Pitchr](https://www.pitchr.studio/)** | Pitch an idea to AI judges and get feedback. **500+ pitches evaluated.** |
+| **Tandem** | Accounting automation for residential property managers. **Five paying clients, 50+ users.** |
+| **Subte Duel** | A two-player Tron-style game set in the Buenos Aires subway, built under a **50 KB** limit for Platanus Hack 26. |
 
 <details>
-<summary><strong>More projects and previous work</strong></summary>
+<summary><strong>More experiments</strong></summary>
 
-| Project | What I built |
-| --- | --- |
-| [Nomos](https://github.com/MartinPuli/nomos) | A prototype that splits work into subtasks and routes each one to a Claude model based on complexity. |
-| My Second Brain | LLM skills that ingest sources, answer questions, and maintain a personal Obsidian wiki. |
-| Subte Duel | A two-player, Buenos Aires subway version of Tron, built under a 50 KB limit for Platanus Hack 26. |
-| Vaultix | A crypto vault with guardians and inheritance rules. |
-| Beexoccer | A football mini app for Beexo Wallet. |
-| Privium | A marketplace for private neighborhoods. |
-
-At **Galo AI**, I built OCR and LLM pipelines for customer orders and integrations with distributor ERPs. At **Script S.A.**, I worked on Java/Spring Boot software for BBVA and Volkswagen Financial Services. Earlier, I worked on COBOL banking systems at **Sistemas Activos**.
+- **[Nomos](https://github.com/MartinPuli/nomos)**: a prototype that splits work into subtasks and routes each one to a Claude model based on complexity.
+- **My Second Brain**: LLM skills that ingest sources, answer questions, and maintain a personal Obsidian wiki.
+- **Vaultix**: a crypto vault with guardians and inheritance rules.
+- **Beexoccer**: a football mini app for Beexo Wallet.
+- **Privium**: a marketplace for private neighborhoods.
 
 </details>
+
+## Hackathons
+
+**1st place at Aleph, VendimiaTech, and Genlayer Bradbury Builders.** I've also placed in quantum computing competitions at ITBA and UBA, and participated as a mentor, judge, and organizer.
 
 <details>
 <summary><strong>Hackathon results</strong></summary>
@@ -63,10 +57,16 @@ At **Galo AI**, I built OCR and LLM pipelines for customer orders and integratio
 | 3rd | Beexo Mini App Hackathon |
 | Finalist | HackITBA 2026 |
 
-I've also participated as a mentor, judge, and organizer.
-
 </details>
 
----
+## Background
 
-Computer Engineering at **UCEMA**, Argentina · **9.64/10 GPA** · English C1
+At **Galo AI**, I built OCR and LLM pipelines for customer orders and distributor ERP integrations. Before that, I worked on Java/Spring Boot software for **BBVA and Volkswagen Financial Services** at Script S.A., and on COBOL banking systems at Sistemas Activos.
+
+I'm studying **Computer Engineering at UCEMA**, with a **9.64/10 GPA**. English C1.
+
+## What I work with
+
+**TypeScript · Python · Next.js · React · PostgreSQL · Supabase · Docker**
+
+For AI and automation: Claude Code, MCP, local models, model APIs, n8n, Make, and Zapier.
