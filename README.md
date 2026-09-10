@@ -10,11 +10,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/profile-education-dark.svg">
-    <img src="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/profile-education-light.svg" alt="Computer Engineering student at UCEMA. GPA: 9.64 out of 10." width="360">
+    <img src="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/profile-education-light.svg" alt="Computer Engineering student at UCEMA. GPA: 9.64 out of 10." width="250">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/profile-hackathons-dark.svg">
-    <img src="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/profile-hackathons-light.svg" alt="9 podium finishes in 12 hackathons." width="360">
+    <img src="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/profile-hackathons-light.svg" alt="9 podium finishes in 12 hackathons." width="250">
   </picture>
 </p>
 
