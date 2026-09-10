@@ -19,7 +19,9 @@ I'm also the **Executive Assistant and right hand to Kamron Palizban**, co-found
 
 ## On my desk
 
-**[Warden](https://github.com/Wardenlabs/warden)** is a local policy gateway for AI tools. It checks requests against rules written in plain language, with on-device inference, document handling, and an audit trail. **1st place among 151 projects at Aleph, August 2026.** I've kept developing it after the hackathon.
+**[Warden](https://github.com/Wardenlabs/warden)** gives teams control over what employees send to AI assistants. Admins write rules in plain language; Warden checks prompts and attached documents with local models before forwarding allowed content to the chosen assistant. It can block a request or hold it for human review, and records which rule led to each decision. Policy analysis stays on the gateway. It includes offline document parsing and OCR, plus an admin console for reviewing decisions and adjusting rules.
+
+**1st place among 151 projects at Aleph, August 2026.** I've kept developing it after the hackathon.
 
 At **[Kool](https://www.joinkool.co/)**, I'm building the platform that helps e-commerce brands work with creators: campaign briefs, applications, affiliate links, commissions, and gifting.
 
@@ -27,7 +29,7 @@ I also built **Execution OS**, the workspace we use daily for meetings, projects
 
 ## New York, built with GeoBlender
 
-Give **[GeoBlender](https://github.com/MartinPuli/geoblender)** a place name or a Google Maps link and it builds an editable Blender scene. I built it during **OpenAI Build Week** with Codex and Blender MCP.
+Give **[GeoBlender](https://github.com/MartinPuli/geoblender)** a place name or a Google Maps link in **a single prompt**, and it builds an editable Blender scene. Codex handles the modeling and render checks through Blender MCP. I built it during **OpenAI Build Week**.
 
 <p align="center">
   <a href="https://github.com/MartinPuli/geoblender">
@@ -48,10 +50,10 @@ Give **[GeoBlender](https://github.com/MartinPuli/geoblender)** a place name or 
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/MartinPuli/geoblender/main/docs/example-puerto-madero.png">
-    <img src="https://raw.githubusercontent.com/MartinPuli/geoblender/main/docs/example-puerto-madero.png" alt="Aerial GeoBlender block model of Puerto Madero, showing its docks, streets, and towers." width="600">
+  <a href="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/geoblender-puerto-madero.png">
+    <img src="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/geoblender-puerto-madero.png" alt="GeoBlender render of Puerto Madero with glass towers, waterfront buildings, trees, and reflective dock water." width="600">
   </a><br>
-  <em>Puerto Madero, Buenos Aires.</em>
+  <em>Puerto Madero, Buenos Aires. Geography © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>.</em>
 </p>
 
 </details>
