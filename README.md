@@ -1,124 +1,71 @@
-<!-- ===================== -->
-<!--   GitHub Profile README -->
-<!-- ===================== -->
-
 <h1 align="center">Martín Ezequiel Pulitano</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI+systems+and+agentic+products;Tech+AI+%26+Automation;Hackathon+builder+from+Buenos+Aires" />
+  Building Kool · Executive Assistant to Kamron Palizban
 </p>
 
 <p align="center">
-  AI & Automation • Tech • Builder • Hackathons
+  <a href="https://martinpulitano.vercel.app/">Website</a> ·
+  <a href="https://www.linkedin.com/in/mart%C3%ADn-ezequiel-pulitano-473b362a6/">LinkedIn</a> ·
+  <a href="https://x.com/MartinPulitano">X</a> ·
+  <a href="mailto:mpulitano1701@gmail.com">Email</a>
 </p>
 
+I study Computer Engineering at UCEMA in Argentina (9.64/10 GPA). I've worked on banking software, built tools that people use at work, and spent plenty of weekends competing in hackathons.
+
+## What I'm working on
+
+I'm the Executive Assistant and right hand to Kamron Palizban. Kamron co-founded Invisible Technologies and is CEO of Ascendancy. Working with him led me to build **Execution OS**, a private workspace we use daily for meetings, projects, accounting, travel, and CRM. I built it from scratch; it now has 30 connected apps, AI pipelines, and an MCP server.
+
+I'm also building [Kool](https://www.joinkool.co/), where e-commerce brands manage creator partnerships. The product brings campaign briefs, creator applications, affiliate links, commissions, and gifting into one place.
+
+## Warden
+
+[Warden](https://github.com/Wardenlabs/warden) is a local gateway that checks AI requests against rules written in plain language. It combines on-device inference with checks for secrets and usage limits, plus an audit trail.
+
+It took **1st place among 151 projects at Aleph in August 2026**. I've kept working on it since. Much of that work is about false positives: a guard that blocks ordinary requests makes the tool harder to use. The repo includes evaluations and failure cases.
+
+## Other things I've built
+
+| Project | What it does |
+| --- | --- |
+| [GeoBlender](https://github.com/MartinPuli/geoblender) | Builds editable Blender scenes from real geographic data, then checks renders against reference views. Built during OpenAI Build Week. |
+| [createAnApp](https://github.com/MartinPuli/createAnApp) | Agent skills for building Apple apps, covering idea validation, development, testing, and App Store launch. |
+| Tandem | Accounting automation for residential property managers. Five paying clients and 50+ users. |
+| [Pitchr](https://www.pitchr.studio/) | Lets people pitch an idea to AI judges modeled after real experts and get feedback. More than 500 pitches evaluated. |
+| [Nomos](https://github.com/MartinPuli/nomos) | A prototype that splits work into subtasks and routes each one to a Claude model based on complexity. |
+| [BuildersClaw](https://github.com/buildersclaw/buildersclaw) | An arena where AI agents compete to solve coding and business problems. 3rd of 141 teams at Aleph in March 2026. |
+| My Second Brain | A personal knowledge base where LLM skills ingest sources, answer questions, and maintain an Obsidian wiki. |
+| Subte Duel | A two-player, Buenos Aires subway version of Tron, built under a 50 KB limit for Platanus Hack 26. |
+
+Earlier projects include Vaultix, a crypto vault with guardians and inheritance rules; Beexoccer, a football mini app for Beexo Wallet; and Privium, a marketplace for private neighborhoods.
+
+## Hackathons
+
+| Result | Event |
+| --- | --- |
+| 1st / 151 projects | Aleph, August 2026 · Warden |
+| 1st | VendimiaTech |
+| 1st | Genlayer Bradbury Builders |
+| 2nd | Quantum Jam ITBA |
+| 2nd | Quantum Jam UBA |
+| 2nd | Monad Blitz Buenos Aires |
+| 3rd / 141 teams | Aleph, March 2026 · BuildersClaw |
+| 3rd | Beexo Mini App Hackathon |
+| Finalist | HackITBA 2026 |
+
+I've also participated as a mentor, judge, and organizer.
+
+## Before this
+
+At **Galo AI**, I built OCR and LLM pipelines for customer orders and integrations with distributor ERPs. Before that, I worked at **Script S.A.** on Java/Spring Boot software for BBVA and Volkswagen Financial Services, and at **Sistemas Activos** on COBOL banking systems.
+
+## Tools I use
+
+TypeScript, Python, Java, Next.js, React, Spring Boot, PostgreSQL, Supabase, and Docker.
+
+For AI work, I use Claude Code, MCP, LangChain, local models, and APIs from OpenAI and Google. The choice depends on what the project needs.
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/martin-ezequiel-pulitano/">LinkedIn</a> ·
-  <a href="https://linktr.ee/Martinpuli">Linktree</a> ·
   <a href="mailto:mpulitano1701@gmail.com">mpulitano1701@gmail.com</a>
-</p>
-
----
-
-## 🧠 About
-
-I'm a Computer Engineering student at UCEMA focused on **AI, automation, and agentic systems**.
-
-I build systems that connect **LLMs, APIs, workflows and product execution** to solve real-world problems, and I'm constantly exploring new ideas through products, experiments, and hackathons.
-
----
-
-## ⚡ What I’m doing
-
-**AI & Automation @ SoyGalo**  
-Shipping AI-driven solutions in real startup environments  
-
-**Tech Lead @ Atlas One**  
-Building AI systems, automation workflows and scalable infrastructure  
-
----
-
-## 🏆 Highlights
-
-- **Top 1** — Aleph Hackathon August 2026
-- **Top 1** — VendimiaTech 
-- **Top 1** — Genlayer Bradbury Builders Hackathon
-- **Top 2** — Quantum Jam ITBA *(Quantum Computing)*
-- **Top 2** — Quantum Jam UBA *(Quantum Computing)*
-- **Top 2** — Monad Blitz BSAS Hackathon
-- **Top 3 / 141 teams** — Aleph Hackathon March 2026  
-- **Top 3** — Beexo Mini App Hackathon  
-- **Finalist** — HackITBA 2026  
-
-Hackathons have been a big part of my growth. They pushed me to build faster, communicate better, and defend ideas in real-world conditions. These are some of my best results, but not the only ones — I’m always competing, learning, and building.
-
----
-
-## 🧩 Projects
-
-**Pitchr**  
-Pitchr lets you pitch ideas to AI judges based on real experts—and get instant feedback
-
-**Nomos**  
-Nomos is a marketplace of optimized AI agent teams that turn real work into ready-to-use results in minutes
-
-**BuildersClaw**  
-Agentic hackathon platform where AI agents compete to solve real business problems  
-
-**Vaultix**  
-A crypto security vault with **guardians and inheritance logic**, designed to add an extra protection layer for digital assets  
-
-**My Second Brain**  
-Open-source second brain powered by LLM skills that automatically ingest, query, and maintain a structured Obsidian wiki from any conversation
-
-**Beexoccer**  
-A football mini app built for **Beexo Wallet**, bringing interactive experiences into the wallet ecosystem  
-
-**Subte Duel**  
-Two-player Tron-style arcade game themed around the BA subway, built under a 50 KB hard limit for Platanus Hack 26
-
-**Privium**  
-A marketplace for private neighborhoods, connecting residents, communities, and service providers  
-
-**SubiteYa**  
-A platform to help influencers manage, organize, and analyze video content more efficiently  
-
-**Atlas One systems**  
-Automation infrastructure and AI workflows for scalable execution  
-
-I’m always working on new projects, MVPs, and experiments around AI, automation, startups, and real-world use cases.
-
----
-
-## 🛠 Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,postgres,docker,git,linux,supabase,vercel" />
-</p>
-
-AI / Automation: LLMs, LangChain, OpenRouter, Claude, n8n, Make, Zapier  
-
----
-
-## 📊 Activity 
-<p align="center"> 
-  <img src="https://streak-stats.demolab.com?user=martinpuli&theme=transparent&hide_border=true" /> 
-</p> 
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=martinpuli&theme=tokyo-night&hide_border=true" /> 
-</p>
-
----
-
-## 🎯 Focus
-
-- AI applied to real-world problems  
-- Agentic workflows  
-- Startup execution  
-- Product thinking  
-
----
-
-<p align="center">
-  <i>Building fast. Learning faster.</i>
 </p>
