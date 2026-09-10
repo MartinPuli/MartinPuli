@@ -81,7 +81,7 @@ Give **[GeoBlender](https://github.com/MartinPuli/geoblender)** a place name or 
 
 ## Weekends well spent 🏆
 
-**1st place at Aleph, VendimiaTech, and Genlayer Bradbury Builders.** I've also placed in quantum computing competitions at ITBA and UBA, and participated as a mentor, judge, and organizer.
+**1st place at Aleph, VendimiaTech, and Genlayer Bradbury Builders.** I also took **2nd place at Quantum Jam ITBA and Quantum Jam UBA**, both quantum computing competitions. I've been a mentor, judge, and organizer too.
 
 <details>
 <summary><strong>Hackathon results</strong></summary>
