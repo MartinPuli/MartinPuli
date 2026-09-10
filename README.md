@@ -1,14 +1,24 @@
-# Martín Ezequiel Pulitano
+<h1 align="center">Hey, I'm Martín 👋</h1>
 
-**Building Warden & Kool · AI systems, products, and automation**
+<p align="center">
+  <strong>AI systems, startup software &amp; the occasional 50 KB subway game.</strong><br>
+  Martín Ezequiel Pulitano · Buenos Aires, Argentina
+</p>
 
-[Website](https://martinpulitano.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-ezequiel-pulitano-473b362a6/) · [X](https://x.com/MartinPulitano) · [Email](mailto:mpulitano1701@gmail.com)
+<p align="center">
+  <a href="https://martinpulitano.vercel.app/">Website</a> ·
+  <a href="https://www.linkedin.com/in/mart%C3%ADn-ezequiel-pulitano-473b362a6/">LinkedIn</a> ·
+  <a href="https://x.com/MartinPulitano">X</a> ·
+  <a href="mailto:mpulitano1701@gmail.com">Let's talk</a>
+</p>
 
-I'm a software builder from Buenos Aires. I've worked on banking systems, built products with paying customers, and spent plenty of weekends competing in hackathons.
+---
 
-I'm the **Executive Assistant and right hand to Kamron Palizban**. Kamron co-founded Invisible Technologies and is CEO of Ascendancy. Working with him puts me close to the daily decisions behind a business, and I build software for that work.
+I'm a software builder from Buenos Aires, currently building **Warden** and **Kool**. I've worked on banking systems, built products with paying customers, and spent plenty of weekends competing in hackathons.
 
-## Right now
+I'm also the **Executive Assistant and right hand to Kamron Palizban**, co-founder of Invisible Technologies and CEO of Ascendancy. I work alongside him on day-to-day operations and build the software we use to run them.
+
+## On my desk
 
 **[Warden](https://github.com/Wardenlabs/warden)** is a local policy gateway for AI tools. It checks requests against rules written in plain language, with on-device inference, document handling, and an audit trail. **1st place among 151 projects at Aleph, August 2026.** I've kept developing it after the hackathon.
 
@@ -16,16 +26,26 @@ At **[Kool](https://www.joinkool.co/)**, I'm building the platform that helps e-
 
 I also built **Execution OS**, the workspace we use daily for meetings, projects, accounting, travel, and CRM. It brings together **30 connected apps**, AI pipelines, and an MCP server.
 
+## A little Buenos Aires, built in Blender
+
+**[GeoBlender](https://github.com/MartinPuli/geoblender)** turns geographic data into editable 3D scenes. I built it during **OpenAI Build Week**, using Codex and Blender MCP. Here's the Obelisco and a piece of Avenida 9 de Julio.
+
+<p align="center">
+  <a href="https://github.com/MartinPuli/geoblender">
+    <img src="https://raw.githubusercontent.com/MartinPuli/geoblender/main/docs/example-obelisco.png" alt="GeoBlender scene of the Buenos Aires Obelisco and Avenida 9 de Julio, with pastel buildings and modeled streets." width="600">
+  </a><br>
+  <a href="https://github.com/MartinPuli/geoblender">Explore the project</a> · <a href="https://youtu.be/SiVsczk-1vw">Watch the 2-minute demo</a>
+</p>
+
 ## More things I've built
 
 | Project | What it does |
 | --- | --- |
-| **[GeoBlender](https://github.com/MartinPuli/geoblender)** | Turns geographic data into editable Blender scenes. Built during **OpenAI Build Week** with Codex and Blender MCP. |
 | **[BuildersClaw](https://github.com/buildersclaw/buildersclaw)** | A platform where AI agents compete to solve business problems. **3rd of 141 teams at Aleph, March 2026.** |
 | **[createAnApp](https://github.com/MartinPuli/createAnApp)** | Agent skills for building Apple apps, from the first idea through App Store launch. |
 | **[Pitchr](https://www.pitchr.studio/)** | Pitch an idea to AI judges and get feedback. **500+ pitches evaluated.** |
 | **Tandem** | Accounting automation for residential property managers. **Five paying clients, 50+ users.** |
-| **Subte Duel** | A two-player Tron-style game set in the Buenos Aires subway, built under a **50 KB** limit for Platanus Hack 26. |
+| **Subte Duel** | Two-player Tron on the Buenos Aires subway, under **50 KB** for Platanus Hack 26. Rush hour needed a competitive mode. |
 
 <details>
 <summary><strong>More experiments</strong></summary>
@@ -38,7 +58,7 @@ I also built **Execution OS**, the workspace we use daily for meetings, projects
 
 </details>
 
-## Hackathons
+## Weekends well spent 🏆
 
 **1st place at Aleph, VendimiaTech, and Genlayer Bradbury Builders.** I've also placed in quantum computing competitions at ITBA and UBA, and participated as a mentor, judge, and organizer.
 
@@ -59,13 +79,13 @@ I also built **Execution OS**, the workspace we use daily for meetings, projects
 
 </details>
 
-## Background
+## From COBOL to AI agents
 
 At **Galo AI**, I built OCR and LLM pipelines for customer orders and distributor ERP integrations. Before that, I worked on Java/Spring Boot software for **BBVA and Volkswagen Financial Services** at Script S.A., and on COBOL banking systems at Sistemas Activos.
 
 I'm studying **Computer Engineering at UCEMA**, with a **9.64/10 GPA**. English C1.
 
-## What I work with
+## My toolbox
 
 **TypeScript · Python · Next.js · React · PostgreSQL · Supabase · Docker**
 
