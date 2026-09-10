@@ -64,14 +64,14 @@ Give **[GeoBlender](https://github.com/MartinPuli/geoblender)** a place name or 
 | **[createAnApp](https://github.com/MartinPuli/createAnApp)** | Agent skills for building Apple apps, from the first idea through App Store launch. |
 | **[Pitchr](https://www.pitchr.studio/)** | Practice a pitch with AI judges modeled on real experts and get immediate feedback. **500+ pitches evaluated.** |
 | **Tandem** | Accounting automation for residential property managers. **Five paying clients, 50+ users.** |
-| **Subte Duel** | Two-player Tron on the Buenos Aires subway, under **50 KB** for Platanus Hack 26. Rush hour needed a competitive mode. |
+| **Vaultix** | A crypto security vault with guardians and inheritance rules. |
 
 <details>
 <summary><strong>More experiments</strong></summary>
 
 - **[Nomos](https://github.com/MartinPuli/nomos)**: a marketplace prototype for specialist AI teams. It splits a goal into subtasks and routes each one to a Claude model based on complexity.
 - **My Second Brain**: LLM skills that ingest sources, answer questions, and maintain a personal Obsidian wiki.
-- **Vaultix**: a crypto vault with guardians and inheritance rules.
+- **Subte Duel**: two-player Tron on the Buenos Aires subway, under **50 KB** for Platanus Hack 26. Rush hour needed a competitive mode.
 - **Beexoccer**: a football mini app for Beexo Wallet.
 - **Privium**: a marketplace connecting residents, communities, and service providers in private neighborhoods.
 - **SubiteYa**: a workspace for creators to organize their video content and analyze its performance.
