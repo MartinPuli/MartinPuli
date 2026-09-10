@@ -25,24 +25,33 @@ At **[Kool](https://www.joinkool.co/)**, I'm building the platform that helps e-
 
 I also built **Execution OS**, the workspace we use daily for meetings, projects, accounting, travel, and CRM. It brings together **30 connected apps**, AI pipelines, and an MCP server.
 
-## GeoBlender, at street level
+## New York, built with GeoBlender
 
 Give **[GeoBlender](https://github.com/MartinPuli/geoblender)** a place name or a Google Maps link and it builds an editable Blender scene. I built it during **OpenAI Build Week** with Codex and Blender MCP.
 
 <p align="center">
   <a href="https://github.com/MartinPuli/geoblender">
-    <img src="https://raw.githubusercontent.com/MartinPuli/geoblender/main/docs/example-street.png" alt="Street-level GeoBlender render with windowed buildings, low-poly trees, and textured pavement." width="720">
+    <img src="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/geoblender-times-square.jpg" alt="GeoBlender render of Times Square, New York, with illuminated billboards, tall buildings, cars, and pedestrians." width="720">
   </a><br>
+  <em>Times Square, New York. An editable scene built with GeoBlender.</em><br>
   <a href="https://github.com/MartinPuli/geoblender">Explore the project</a> · <a href="https://youtu.be/SiVsczk-1vw">Watch the 2-minute demo</a>
 </p>
 
 <details>
-<summary><strong>Another view: Puerto Madero</strong></summary>
+<summary><strong>More GeoBlender views</strong></summary>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/geoblender-new-york.jpg">
+    <img src="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/geoblender-new-york.jpg" alt="Another GeoBlender view of New York, with tall facades, a crosswalk, and red plaza steps." width="600">
+  </a><br>
+  <em>New York, another angle.</em>
+</p>
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/MartinPuli/geoblender/main/docs/example-puerto-madero.png">
     <img src="https://raw.githubusercontent.com/MartinPuli/geoblender/main/docs/example-puerto-madero.png" alt="Aerial GeoBlender block model of Puerto Madero, showing its docks, streets, and towers." width="600">
-  </a>
+  </a><br>
+  <em>Puerto Madero, Buenos Aires.</em>
 </p>
 
 </details>
