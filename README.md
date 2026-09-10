@@ -1,17 +1,14 @@
-<h1 align="center">Martín Ezequiel Pulitano</h1>
+# Martín Ezequiel Pulitano
 
-<p align="center">
-  <strong>Executive Assistant to Kamron Palizban</strong><br>
-  AI systems &amp; product engineering · Building Warden &amp; Kool<br>
-  Computer Engineering student @ UCEMA · <strong>GPA 9.64/10</strong><br>
-  <strong>9 podium finishes in 12 hackathons</strong> · Buenos Aires, Argentina
-</p>
+**Executive Assistant to Kamron Palizban**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mart%C3%ADn-ezequiel-pulitano-473b362a6/">LinkedIn</a> ·
-  <a href="https://x.com/MartinPulitano">X</a> ·
-  <a href="mailto:mpulitano1701@gmail.com">Email</a>
-</p>
+Building **Warden** & **Kool** · AI systems & product engineering
+
+| Education | Hackathons |
+| --- | --- |
+| Computer Engineering student at **UCEMA**<br>GPA **9.64/10** | **9 podium finishes**<br>in **12 hackathons** |
+
+Buenos Aires, Argentina · [LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-ezequiel-pulitano-473b362a6/) · [X](https://x.com/MartinPulitano) · [Email](mailto:mpulitano1701@gmail.com)
 
 ---
 
