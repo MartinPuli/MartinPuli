@@ -1,23 +1,23 @@
-<h1 align="center">Hey, I'm Martín 👋</h1>
+<h1 align="center">Martín Ezequiel Pulitano</h1>
 
 <p align="center">
-  <strong>AI systems, startup software &amp; the occasional 50 KB subway game.</strong><br>
-  Martín Ezequiel Pulitano · Buenos Aires, Argentina
+  <strong>AI systems &amp; product engineering · Building Warden and Kool</strong><br>
+  Buenos Aires, Argentina
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mart%C3%ADn-ezequiel-pulitano-473b362a6/">LinkedIn</a> ·
   <a href="https://x.com/MartinPulitano">X</a> ·
-  <a href="mailto:mpulitano1701@gmail.com">Let's talk</a>
+  <a href="mailto:mpulitano1701@gmail.com">Email</a>
 </p>
 
 ---
 
-I'm a software builder from Buenos Aires, currently building **Warden** and **Kool**. I've worked on banking systems and built products with paying customers. Hackathons account for a lot of my weekends.
+I'm building **Warden**, a local AI gateway that checks prompts against company policies, and **Kool**, a platform for brands and creators. My other projects include accounting automation with **five paying clients and 50+ users**.
 
-I'm also the **Executive Assistant and right hand to Kamron Palizban**, co-founder of Invisible Technologies and CEO of Ascendancy. I work alongside him on day-to-day operations and build the software we use to run them.
+I also work as an **Executive Assistant to Kamron Palizban**. Kamron co-founded Invisible Technologies and is CEO of Ascendancy.
 
-## On my desk
+## Current work
 
 **[Warden](https://github.com/Wardenlabs/warden)** gives teams control over what employees send to AI assistants. Admins write rules in plain language; Warden checks prompts and attached documents with local models before forwarding allowed content to the chosen assistant. It can block a request or hold it for human review, and records which rule led to each decision. Policy analysis stays on the gateway. It includes offline document parsing and OCR, plus an admin console for reviewing decisions and adjusting rules.
 
@@ -33,7 +33,7 @@ Give **[GeoBlender](https://github.com/MartinPuli/geoblender)** a place name or 
 
 **[▶ Watch the 2-minute demo](https://youtu.be/SiVsczk-1vw)**
 
-## More things I've built
+## Selected projects
 
 | Project | What it does |
 | --- | --- |
@@ -44,11 +44,11 @@ Give **[GeoBlender](https://github.com/MartinPuli/geoblender)** a place name or 
 | **Vaultix** | A crypto security vault with guardians and inheritance rules. |
 
 <details>
-<summary><strong>More experiments</strong></summary>
+<summary><strong>More projects</strong></summary>
 
 - **[Nomos](https://github.com/MartinPuli/nomos)**: a marketplace prototype for specialist AI teams. It splits a goal into subtasks and routes each one to a Claude model based on complexity.
 - **My Second Brain**: LLM skills that ingest sources, answer questions, and maintain a personal Obsidian wiki.
-- **Subte Duel**: two-player Tron on the Buenos Aires subway, under **50 KB** for Platanus Hack 26. Rush hour needed a competitive mode.
+- **Subte Duel**: two-player Tron on the Buenos Aires subway, under **50 KB** for Platanus Hack 26.
 - **Beexoccer**: a football mini app for Beexo Wallet.
 - **Privium**: a marketplace connecting residents, communities, and service providers in private neighborhoods.
 - **SubiteYa**: a workspace for creators to organize their video content and analyze its performance.
@@ -56,9 +56,9 @@ Give **[GeoBlender](https://github.com/MartinPuli/geoblender)** a place name or 
 
 </details>
 
-## Weekends well spent 🏆
+## Hackathons
 
-**1st place at Aleph, VendimiaTech, and Genlayer Bradbury Builders.** I also took **2nd place at Quantum Jam ITBA and Quantum Jam UBA**, both quantum computing competitions. I've been a mentor, judge, and organizer too.
+**1st place at Aleph, VendimiaTech, and Genlayer Bradbury Builders.** I also took **2nd place at Quantum Jam ITBA and Quantum Jam UBA**, both quantum computing competitions. I've also been a mentor, judge, and organizer.
 
 <details>
 <summary><strong>Hackathon results</strong></summary>
@@ -77,13 +77,13 @@ Give **[GeoBlender](https://github.com/MartinPuli/geoblender)** a place name or 
 
 </details>
 
-## A bit of background
+## Experience & education
 
 At **Galo AI**, I built OCR and LLM pipelines for customer orders and distributor ERP integrations. Before that, I worked on Java/Spring Boot software for **BBVA and Volkswagen Financial Services** at Script S.A., and on COBOL banking systems at Sistemas Activos.
 
 I'm studying **Computer Engineering at UCEMA**, with a **9.64/10 GPA**. English C1.
 
-## My toolbox
+## Tools & technologies
 
 **TypeScript · Python · Next.js · React · PostgreSQL · Supabase · Docker**
 
