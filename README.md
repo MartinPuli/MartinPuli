@@ -63,7 +63,6 @@ Give **[GeoBlender](https://github.com/MartinPuli/geoblender)** a place name or 
 - **Beexoccer**: a football mini app for Beexo Wallet.
 - **Privium**: a marketplace connecting residents, communities, and service providers in private neighborhoods.
 - **SubiteYa**: a workspace for creators to organize their video content and analyze its performance.
-- **Atlas One systems**: automation infrastructure and AI workflows I built at Atlas One.
 
 </details>
 
@@ -96,6 +95,10 @@ I'm studying **Computer Engineering at UCEMA**, with a **9.64/10 GPA**. English 
 
 ## Tools & technologies
 
-**TypeScript · Python · Next.js · React · PostgreSQL · Supabase · Docker**
-
-For AI and automation: Claude Code, MCP, local models, model APIs, n8n, Make, and Zapier.
+| Area | Tools & skills |
+| --- | --- |
+| **Languages** | Python · TypeScript · JavaScript · Java · COBOL |
+| **Frontend** | React · Next.js · Angular |
+| **Backend & infrastructure** | Spring Boot · PostgreSQL · Supabase · Docker · Git · Linux · Vercel |
+| **AI & machine learning** | Machine learning · LLMs · Agent workflows · Custom agent skills · MCP · LangChain · OpenRouter · Local models · OCR |
+| **Development & automation** | Codex · Claude Code · n8n · Make · Zapier |
