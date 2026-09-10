@@ -3,7 +3,8 @@
 <p align="center">
   <strong>Executive Assistant to Kamron Palizban</strong><br>
   AI systems &amp; product engineering · Building Warden &amp; Kool<br>
-  Buenos Aires, Argentina
+  Computer Engineering student @ UCEMA · <strong>GPA 9.64/10</strong><br>
+  <strong>9 podium finishes in 12 hackathons</strong> · Buenos Aires, Argentina
 </p>
 
 <p align="center">
@@ -57,10 +58,10 @@ Give **[GeoBlender](https://github.com/MartinPuli/geoblender)** a place name or 
 
 ## Hackathons
 
-**1st place at Aleph, VendimiaTech, and Genlayer Bradbury Builders.** I also took **2nd place at Quantum Jam ITBA and Quantum Jam UBA**, both quantum computing competitions. I've also been a mentor, judge, and organizer.
+**9 podium finishes in 12 hackathons**, with **1st place at Aleph, VendimiaTech, and Genlayer Bradbury Builders**. I also took **2nd place at Quantum Jam ITBA and Quantum Jam UBA**, both quantum computing competitions. I've also been a mentor, judge, and organizer.
 
 <details>
-<summary><strong>Hackathon results</strong></summary>
+<summary><strong>Selected hackathon results</strong></summary>
 
 | Result | Event |
 | --- | --- |
