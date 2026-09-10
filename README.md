@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://martinpulitano.vercel.app/">Website</a> ·
   <a href="https://www.linkedin.com/in/mart%C3%ADn-ezequiel-pulitano-473b362a6/">LinkedIn</a> ·
   <a href="https://x.com/MartinPulitano">X</a> ·
   <a href="mailto:mpulitano1701@gmail.com">Let's talk</a>
