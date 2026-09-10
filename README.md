@@ -1,46 +1,46 @@
-<h1 align="center">Martín Ezequiel Pulitano</h1>
+### Martín Ezequiel Pulitano
 
-<p align="center">
-  Building Kool · Executive Assistant to Kamron Palizban
-</p>
+I build AI tools and products: [Warden](https://github.com/Wardenlabs/warden) checks AI requests against company policies on-device; [Kool](https://www.joinkool.co/) helps e-commerce brands work with creators.
 
-<p align="center">
-  <a href="https://martinpulitano.vercel.app/">Website</a> ·
-  <a href="https://www.linkedin.com/in/mart%C3%ADn-ezequiel-pulitano-473b362a6/">LinkedIn</a> ·
-  <a href="https://x.com/MartinPulitano">X</a> ·
-  <a href="mailto:mpulitano1701@gmail.com">Email</a>
-</p>
+[Website](https://martinpulitano.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-ezequiel-pulitano-473b362a6/) · [X](https://x.com/MartinPulitano) · [Email](mailto:mpulitano1701@gmail.com)
 
-I study Computer Engineering at UCEMA in Argentina (9.64/10 GPA). I've worked on banking software, built tools that people use at work, and spent plenty of weekends competing in hackathons.
+I'm the **Executive Assistant and right hand to Kamron Palizban**. Kamron co-founded Invisible Technologies and is CEO of Ascendancy. I built Execution OS for our daily work: 30 connected apps for meetings, projects, accounting, travel, and CRM, with AI pipelines and an MCP server.
 
-## What I'm working on
+At Kool, I'm building the tools for campaign briefs, creator applications, affiliate links, commissions, and gifting.
 
-I'm the Executive Assistant and right hand to Kamron Palizban. Kamron co-founded Invisible Technologies and is CEO of Ascendancy. Working with him led me to build **Execution OS**, a private workspace we use daily for meetings, projects, accounting, travel, and CRM. I built it from scratch; it now has 30 connected apps, AI pipelines, and an MCP server.
+### Selected projects
 
-I'm also building [Kool](https://www.joinkool.co/), where e-commerce brands manage creator partnerships. The product brings campaign briefs, creator applications, affiliate links, commissions, and gifting into one place.
+- **[Warden](https://github.com/Wardenlabs/warden)** · Local AI policy gateway. **1st of 151 projects at Aleph, August 2026.** I kept building after the hackathon; the repo includes evaluations, false positives, and failure cases.
+- **[GeoBlender](https://github.com/MartinPuli/geoblender)** builds editable Blender scenes from geographic data, then compares renders with reference views. Built during OpenAI Build Week.
+- **[createAnApp](https://github.com/MartinPuli/createAnApp)** packages agent skills for building Apple apps, covering idea validation through App Store launch.
+- **[BuildersClaw](https://github.com/buildersclaw/buildersclaw)** runs competitions where AI agents build solutions to business problems. **3rd of 141 teams at Aleph, March 2026.**
 
-## Warden
+### How I build
 
-[Warden](https://github.com/Wardenlabs/warden) is a local gateway that checks AI requests against rules written in plain language. It combines on-device inference with checks for secrets and usage limits, plus an audit trail.
+TypeScript and Python; Next.js, React, PostgreSQL, Supabase, and Docker. I also have a banking software background in Java/Spring Boot and COBOL.
 
-It took **1st place among 151 projects at Aleph in August 2026**. I've kept working on it since. Much of that work is about false positives: a guard that blocks ordinary requests makes the tool harder to use. The repo includes evaluations and failure cases.
+My AI work uses Claude Code, MCP, local models, and model APIs. With Warden, model-generated explanations slowed decisions and sometimes broke the output format, so I switched to explanations drawn from the policy text. I keep the failure cases in the repo.
 
-## Other things I've built
+<details>
+<summary><strong>More projects and previous work</strong></summary>
 
-| Project | What it does |
+| Project | What I built |
 | --- | --- |
-| [GeoBlender](https://github.com/MartinPuli/geoblender) | Builds editable Blender scenes from real geographic data, then checks renders against reference views. Built during OpenAI Build Week. |
-| [createAnApp](https://github.com/MartinPuli/createAnApp) | Agent skills for building Apple apps, covering idea validation, development, testing, and App Store launch. |
-| Tandem | Accounting automation for residential property managers. Five paying clients and 50+ users. |
-| [Pitchr](https://www.pitchr.studio/) | Lets people pitch an idea to AI judges modeled after real experts and get feedback. More than 500 pitches evaluated. |
+| Tandem | Accounting automation for residential property managers. Five paying clients, 50+ users. |
+| [Pitchr](https://www.pitchr.studio/) | AI judges that evaluate startup pitches. More than 500 pitches evaluated. |
 | [Nomos](https://github.com/MartinPuli/nomos) | A prototype that splits work into subtasks and routes each one to a Claude model based on complexity. |
-| [BuildersClaw](https://github.com/buildersclaw/buildersclaw) | An arena where AI agents compete to solve coding and business problems. 3rd of 141 teams at Aleph in March 2026. |
-| My Second Brain | A personal knowledge base where LLM skills ingest sources, answer questions, and maintain an Obsidian wiki. |
+| My Second Brain | LLM skills that ingest sources, answer questions, and maintain a personal Obsidian wiki. |
 | Subte Duel | A two-player, Buenos Aires subway version of Tron, built under a 50 KB limit for Platanus Hack 26. |
+| Vaultix | A crypto vault with guardians and inheritance rules. |
+| Beexoccer | A football mini app for Beexo Wallet. |
+| Privium | A marketplace for private neighborhoods. |
 
-Earlier projects include Vaultix, a crypto vault with guardians and inheritance rules; Beexoccer, a football mini app for Beexo Wallet; and Privium, a marketplace for private neighborhoods.
+At **Galo AI**, I built OCR and LLM pipelines for customer orders and integrations with distributor ERPs. At **Script S.A.**, I worked on Java/Spring Boot software for BBVA and Volkswagen Financial Services. Earlier, I worked on COBOL banking systems at **Sistemas Activos**.
 
-## Hackathons
+</details>
+
+<details>
+<summary><strong>Hackathon results</strong></summary>
 
 | Result | Event |
 | --- | --- |
@@ -56,16 +56,8 @@ Earlier projects include Vaultix, a crypto vault with guardians and inheritance 
 
 I've also participated as a mentor, judge, and organizer.
 
-## Before this
+</details>
 
-At **Galo AI**, I built OCR and LLM pipelines for customer orders and integrations with distributor ERPs. Before that, I worked at **Script S.A.** on Java/Spring Boot software for BBVA and Volkswagen Financial Services, and at **Sistemas Activos** on COBOL banking systems.
+---
 
-## Tools I use
-
-TypeScript, Python, Java, Next.js, React, Spring Boot, PostgreSQL, Supabase, and Docker.
-
-For AI work, I use Claude Code, MCP, LangChain, local models, and APIs from OpenAI and Google. The choice depends on what the project needs.
-
-<p align="center">
-  <a href="mailto:mpulitano1701@gmail.com">mpulitano1701@gmail.com</a>
-</p>
+Computer Engineering at **UCEMA**, Argentina · **9.64/10 GPA** · English C1
