@@ -27,36 +27,11 @@ At **[Kool](https://www.joinkool.co/)**, I'm building the platform that helps e-
 
 I also built **Execution OS**, the workspace we use daily for meetings, projects, accounting, travel, and CRM. It brings together **30 connected apps**, AI pipelines, and an MCP server.
 
-## New York, built with GeoBlender
+## GeoBlender
 
 Give **[GeoBlender](https://github.com/MartinPuli/geoblender)** a place name or a Google Maps link in **a single prompt**, and it builds an editable Blender scene. Codex handles the modeling and render checks through Blender MCP. I built it during **OpenAI Build Week**.
 
-<p align="center">
-  <a href="https://github.com/MartinPuli/geoblender">
-    <img src="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/geoblender-times-square.jpg" alt="GeoBlender render of Times Square, New York, with illuminated billboards, tall buildings, cars, and pedestrians." width="720">
-  </a><br>
-  <em>Times Square, New York. An editable scene built with GeoBlender.</em><br>
-  <a href="https://github.com/MartinPuli/geoblender">Explore the project</a> · <a href="https://youtu.be/SiVsczk-1vw">Watch the 2-minute demo</a>
-</p>
-
-<details>
-<summary><strong>More GeoBlender views</strong></summary>
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/geoblender-new-york.jpg">
-    <img src="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/geoblender-new-york.jpg" alt="Another GeoBlender view of New York, with tall facades, a crosswalk, and red plaza steps." width="600">
-  </a><br>
-  <em>New York, another angle.</em>
-</p>
-
-<p align="center">
-  <a href="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/geoblender-puerto-madero.png">
-    <img src="https://raw.githubusercontent.com/MartinPuli/MartinPuli/main/assets/geoblender-puerto-madero.png" alt="GeoBlender render of Puerto Madero with glass towers, waterfront buildings, trees, and reflective dock water." width="600">
-  </a><br>
-  <em>Puerto Madero, Buenos Aires. Geography © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a>.</em>
-</p>
-
-</details>
+**[▶ Watch the 2-minute demo](https://youtu.be/SiVsczk-1vw)**
 
 ## More things I've built
 
