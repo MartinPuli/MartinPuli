@@ -1,7 +1,8 @@
 <h1 align="center">Martín Ezequiel Pulitano</h1>
 
 <p align="center">
-  <strong>AI systems &amp; product engineering · Building Warden and Kool</strong><br>
+  <strong>Executive Assistant to Kamron Palizban</strong><br>
+  AI systems &amp; product engineering · Building Warden &amp; Kool<br>
   Buenos Aires, Argentina
 </p>
 
@@ -13,9 +14,7 @@
 
 ---
 
-I'm building **Warden**, a local AI gateway that checks prompts against company policies, and **Kool**, a platform for brands and creators. My other projects include accounting automation with **five paying clients and 50+ users**.
-
-I also work as an **Executive Assistant to Kamron Palizban**. Kamron co-founded Invisible Technologies and is CEO of Ascendancy.
+I work as **Executive Assistant to Kamron Palizban**, who co-founded Invisible Technologies and is CEO of Ascendancy. I'm building **Warden**, a local gateway for AI policies, and **Kool**, a platform for e-commerce brands and creators.
 
 ## Current work
 
@@ -40,7 +39,7 @@ Give **[GeoBlender](https://github.com/MartinPuli/geoblender)** a place name or 
 | **[BuildersClaw](https://github.com/buildersclaw/buildersclaw)** | A platform where AI agents compete to solve business problems. **3rd of 141 teams at Aleph, March 2026.** |
 | **[createAnApp](https://github.com/MartinPuli/createAnApp)** | Agent skills for building Apple apps, from the first idea through App Store launch. |
 | **[Pitchr](https://www.pitchr.studio/)** | Practice a pitch with AI judges modeled on real experts and get immediate feedback. **500+ pitches evaluated.** |
-| **Tandem** | Accounting automation for residential property managers. **Five paying clients, 50+ users.** |
+| **Tandem** | Accounting automation for residential property managers. |
 | **Vaultix** | A crypto security vault with guardians and inheritance rules. |
 
 <details>
